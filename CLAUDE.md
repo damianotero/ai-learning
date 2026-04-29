@@ -19,8 +19,8 @@ python day_01.py
 
 | File | Description |
 |------|-------------|
-| `day_01.py` | TODO: fill in |
-| `day_02.py` | TODO: fill in |
+| `day_01.py` | Python basics — first learning script |
+| `day_02.py` | Python basics — continued |
 | `guia-modelos-ia.py` | AI model guide script |
 | `guia-modelos-ia.pdf` | AI model guide PDF reference |
 | `.backup-index.md` | Index of CLAUDE.md backups across workspace projects |
