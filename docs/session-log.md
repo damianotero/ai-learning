@@ -2,6 +2,14 @@
 
 ---
 
+## Sesión 003 — 2026-05-24 (Claude Code) — Migración Antigravity Fase 3: AGENTS.md + symlinks
+
+- `AGENTS.md` creado como copia del CLAUDE.md/GEMINI.md sincronizado en la sesión 002.
+- `CLAUDE.md` y `GEMINI.md` ahora son symlinks a `AGENTS.md`. Sin cambio de contenido.
+- Detalle workspace-wide: `~/workspace/docs/session-log.md` sesión 2026-05-24.
+
+---
+
 ## Sesión 002 — 2026-05-23 (Claude Code) — Sync CLAUDE.md y GEMINI.md
 
 - `CLAUDE.md` era breve y en inglés; `GEMINI.md` era más completo en español. Se tomó la versión más completa como base, se genericó "Gemini CLI" → "el agente", y se sincronizaron ambos archivos (mismo contenido).
