@@ -2,6 +2,13 @@
 
 ---
 
+## Sesión 004 — 2026-05-24 (Claude Code) — Drop GEMINI.md symlink (limpieza arquitectura workspace)
+
+- `GEMINI.md` eliminado (era symlink → `AGENTS.md`). Antigravity lee `AGENTS.md` directo.
+- Parte de la limpieza workspace-wide post-migración Antigravity. Detalle en `~/workspace/docs/migration-antigravity-cleanup.md`.
+
+---
+
 ## Sesión 003 — 2026-05-24 (Claude Code) — Migración Antigravity Fase 3: AGENTS.md + symlinks
 
 - `AGENTS.md` creado como copia del CLAUDE.md/GEMINI.md sincronizado en la sesión 002.
