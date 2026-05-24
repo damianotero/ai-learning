@@ -1,14 +1,12 @@
 # AI Learning — Contexto del Proyecto
 
-> Archivo de contexto para Gemini CLI.
-> Leer este archivo al inicio de cada sesión antes de hacer cualquier cosa.
+Leer este archivo al inicio de cada sesión antes de hacer nada.
 
 ---
 
 ## Qué es este proyecto
 
-Scripts y ejercicios de Python para la formación de Damian como AI Engineer.
-Cada día de práctica es un archivo numerado (`day_NN.py`).
+Scripts y ejercicios de Python para la formación de Damian como AI Engineer. Cada día de práctica es un archivo numerado (`day_NN.py`).
 
 **Contexto**: estos scripts son de aprendizaje, no producción. Comentarios y `print()` son bienvenidos.
 
@@ -41,29 +39,29 @@ python day_01.py
 
 ```
 ai-learning/
-  day_01.py               → Ejercicio día 1
-  day_02.py               → Ejercicio día 2
+  day_01.py               ← Ejercicio día 1
+  day_02.py               ← Ejercicio día 2
   ...
-  guia-modelos-ia.py      → Guía de modelos de IA
-  guia-modelos-ia.pdf     → Referencia PDF
-  requirements.txt        → Dependencias (si existe)
+  guia-modelos-ia.py      ← Guía de modelos de IA
+  guia-modelos-ia.pdf     ← Referencia PDF
+  requirements.txt        ← Dependencias (si existe)
 ```
 
 ---
 
-## Qué tareas hace Gemini CLI aquí
+## Qué tareas hace el agente aquí
 
-- Explicar conceptos de AI Engineering con ejemplos en Python
-- Revisar y mejorar scripts de ejercicios
-- Sugerir ejercicios prácticos para consolidar un concepto
-- Ayudar a adaptar un script aprendido a un proyecto real (Rupu Sur, ChuteBay, Fronterra)
+- Explicar conceptos de AI Engineering con ejemplos en Python.
+- Revisar y mejorar scripts de ejercicios.
+- Sugerir ejercicios prácticos para consolidar un concepto.
+- Ayudar a adaptar un script aprendido a un proyecto real (Rupü Sur, ChuteBay/HornyGorilla, Fronterra).
 
 ---
 
 ## Reglas de trabajo
 
-- Comunicar siempre en español
-- Código puede tener comentarios explicativos — es material de aprendizaje
-- Cada habilidad nueva debe aplicarse a un proyecto real esa misma semana
-- No instalar dependencias sin explicar para qué sirven
-- Relacionar siempre lo que se aprende con los proyectos reales de Damian
+- Comunicar siempre en español.
+- Código puede tener comentarios explicativos — es material de aprendizaje.
+- Cada habilidad nueva debe aplicarse a un proyecto real esa misma semana.
+- No instalar dependencias sin explicar para qué sirven.
+- Relacionar siempre lo que se aprende con los proyectos reales de Damian.
