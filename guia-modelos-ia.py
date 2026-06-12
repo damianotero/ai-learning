@@ -1,6 +1,7 @@
 """
 Guía de Modelos de IA — generador de PDF
 """
+from pathlib import Path
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.lib.units import cm
@@ -748,7 +749,7 @@ story.append(rule_box(
 ))
 
 # ─── Build ─────────────────────────────────────────────────────────────────────
-output_path = '/Users/damianotero/workspace/guia-modelos-ia.pdf'
+output_path = str(Path(__file__).resolve().parent / 'guia-modelos-ia.pdf')
 doc = SimpleDocTemplate(
     output_path,
     pagesize=A4,

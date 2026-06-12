@@ -13,6 +13,9 @@ venv/
 .idea/
 *.swp
 
+# Generated files
+*.pdf
+
 # Secrets
 .env
 .env.local
