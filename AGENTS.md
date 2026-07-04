@@ -43,7 +43,9 @@ ai-learning/
   day_02.py               ← Ejercicio día 2
   ...
   guia-modelos-ia.py      ← Guía de modelos de IA
-  guia-modelos-ia.pdf     ← Referencia PDF
+  docs/
+    assets/
+      guia-modelos-ia.pdf   ← Referencia PDF
   requirements.txt        ← Dependencias (si existe)
 ```
 

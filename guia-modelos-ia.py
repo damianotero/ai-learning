@@ -749,7 +749,7 @@ story.append(rule_box(
 ))
 
 # ─── Build ─────────────────────────────────────────────────────────────────────
-output_path = str(Path(__file__).resolve().parent / 'guia-modelos-ia.pdf')
+output_path = str(Path(__file__).resolve().parent / "docs" / "assets" / "guia-modelos-ia.pdf")
 doc = SimpleDocTemplate(
     output_path,
     pagesize=A4,
