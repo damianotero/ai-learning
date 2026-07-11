@@ -18,8 +18,4 @@
 
 ## Completed
 
-| Tarea | Fecha |
-|-------|-------|
-| day_01.py — primer script de aprendizaje | 2026-03-23 |
-| day_02.py | 2026-03-23 |
-| guia-modelos-ia.py — guía de modelos IA | 2026-04-13 |
+Registro completo de tareas completadas en [`docs/tasks.md`](tasks.md) (activas) y [`docs/_archive/tasks-completadas.md`](_archive/tasks-completadas.md) (archivadas, < 2026-05-12).
