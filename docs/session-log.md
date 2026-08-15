@@ -1,5 +1,12 @@
 # Session Log — AI Learning
 
+## Sesión 006 — 2026-08-15 (Antigravity) — B8 workspace-check-fix: rellenar README.md (finding #14)
+
+- **Qué se hizo**: Reescrito `README.md` (de un stub de 13 bytes a documentación completa con propósito, stack, estructura y comandos de ejecución).
+- **Archivos modificados**: `README.md`, `docs/session-log.md`.
+
+---
+
 ## Sesión 005 — 2026-07-11 (Claude Code) — Remediación docs-audit (Bloque 8 workspace-wide)
 
 - **Qué se hizo**: Archivar 3 tareas completadas de `tasks.md` a `docs/_archive/tasks-completadas.md` y actualizar `roadmap.md` según el plan workspace-wide [`docs/_archive/plans/docs-audit-remediation-2026-07-11-plan.md`](file:///Users/damianotero/workspace/docs/_archive/plans/docs-audit-remediation-2026-07-11-plan.md).
